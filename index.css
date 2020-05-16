@@ -1,0 +1,102 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.____46 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 640px;
+	left: 0px;
+	top: 0px;
+}
+.____16 {
+	filter: drop-shadow(0px -1px 5px rgba(114, 114, 114, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 79.333px;
+	left: 0px;
+	top: 575.667px;
+}
+#______17___2 {
+	position: absolute;
+	width: 25.367px;
+	height: 45.333px;
+	left: 23.333px;
+	top: 586.925px;
+	overflow: visible;
+}
+#___86 {
+	position: absolute;
+	width: 22.946px;
+	height: 12.533px;
+	left: 1.457px;
+	top: 32.8px;
+	overflow: visible;
+}
+.___79 {
+	overflow: visible;
+	position: absolute;
+	width: 9.866px;
+	height: 11.92px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.___80 {
+	overflow: visible;
+	position: absolute;
+	width: 11.439px;
+	height: 12.187px;
+	left: 11.507px;
+	top: 0.346px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#___91 {
+	position: absolute;
+	width: 25.367px;
+	height: 24.817px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___87 {
+	overflow: visible;
+	position: absolute;
+	width: 25.367px;
+	height: 24.817px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.___87 :hover {
+  fill: red;
+}
